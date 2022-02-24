@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    /* width: 100%; */
+}
+ .home{
+width: 100%;
+/* display: flex; */
+background-color: yellow;
+}
+.nav_bar ul{
+    justify-content: end;
+    display: flex;
+    padding: 5px;
+    margin-right: 3px;
+    margin-top: 0px;
+}
+.nav_bar ul li{
+    /* text-decoration: none; */
+    list-style-type: none;
+    padding: 0.8rem;
+    font-size: 18px;
+}
+
+
